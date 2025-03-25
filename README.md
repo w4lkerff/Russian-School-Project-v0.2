@@ -2,4 +2,5 @@ This is the 0.2v of my school project. It is designed to help immigrants like my
 Currently it only works on Windows 10/11
 PLease make sure you have the latest Python 3 downloaded,
 Then make sure you also install pillow and the according images
+Put the images folder into your main desktop so that they can be accessed by the program
 Thank you
